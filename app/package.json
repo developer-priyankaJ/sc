@@ -83,7 +83,7 @@
     "socket.io-p2p": "^2.2.0",
     "sqlite3": "^4.0.0",
     "sqs": "^2.0.2",
-    "standard-version": "^5.0.0",
+    "standard-version": "^8.0.1",
     "twilio": "^2.9.1",
     "ursa": "^0.9.4",
     "uuid": "^3.2.1",
